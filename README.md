@@ -59,7 +59,11 @@ Você poderá deletar os registros existentes, incluindo o Id na URL, através d
 
 <h2>Considerações finais</h2>
 
-<p align='justify'>Todas as imagens foram tiradas através de print da tela, utilizando o aplicativo postman, para teste das funcionalidades da API. </p>
+<p align='justify'>Todas as imagens foram tiradas através de print da tela, utilizando o aplicativo postman, para teste das funcionalidades da API.
+
+Será possível a visualização das funcionalidades, através da [Documentação Postman da API](https://documenter.getpostman.com/view/15597947/TzY7dYra).
+
+</p>
 
 
 ## Tecnologias utilizadas

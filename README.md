@@ -1,3 +1,5 @@
+# O código da aplicação se encontra na Branch Master
+
 # API Animal
 
 ### Objetivo
